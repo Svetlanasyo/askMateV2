@@ -1,5 +1,6 @@
 package io.github.askmate.restservice;
 
+import io.github.askmate.restservice.model.Question;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
