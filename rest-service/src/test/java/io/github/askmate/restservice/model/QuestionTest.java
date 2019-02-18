@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import static org.junit.jupiter.api.Assertions.*;
 
 @RunWith(SpringRunner.class)
-class QuestionTest {
+public class QuestionTest {
 
 
     Question question = new Question("Java", 1);
